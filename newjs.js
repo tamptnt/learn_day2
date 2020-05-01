@@ -4,4 +4,6 @@
  * and open the template in the editor.
  */
 
-
+document.getElementById("aler").addEventListener("click", function() {
+    alert ("Thật là tuyệt vời")
+});
